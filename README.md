@@ -12,7 +12,7 @@
 A **sleek**, modular EWS that runs on minimal hardware, combining:
 - 🧮 **Parameter-Weighted Scoring** (local sensors + optional remote sensing)  
 - 🤖 **AI-Driven Refinement** (historical flood data)  
-- 🔄 **Continual Learning** (automatic threshold tuning)  
+- 🔄 **Continual Learning** (automatic threshold )  
 
 ---
 
